@@ -20,13 +20,13 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'cushygarden' );
+define( 'DB_NAME', 'alazea' );
 
 /** Database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'alazea' );
 
 /** Database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', '123456789' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
@@ -48,14 +48,14 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         '+S#zbtD7],&-nkS6,JmwuSd#>2sy|8]4z{By#QQVq`)CqUe31YeMRlvH QA.Lsr&' );
-define( 'SECURE_AUTH_KEY',  'QWaL0N|!83s.J_w_)FaBuf!eL-T,AWOCH03!k`a:_dm=%8_0{oQ?W$yRG.<NQVU:' );
-define( 'LOGGED_IN_KEY',    '::T>b61Zfa}D0wDfJ ?<$Lems0h yQwOmJbm}/jaHb}Cb2|q1.:B*cWgZ[0jc^g)' );
-define( 'NONCE_KEY',        'd?4.LTr$m4H2jRZ+1EoiNmfl!&M72Kr>K{a:XeE^(pPv c69!?v1K3-O6$ng|!xJ' );
-define( 'AUTH_SALT',        'o4gO347 WNgB[d<<X->]B5ug1)[UWMM?Nd@c-9DM4tcFjK>E!y7]sfQ#1i&H5Y/:' );
-define( 'SECURE_AUTH_SALT', 'nJrvH]5BKQbk7TD(Q &.kOopW c_Ua*@ywxUgSCw4w%@hl$h~wWb7M#~i]^ XE-7' );
-define( 'LOGGED_IN_SALT',   '*|X4l:K_+TB#AH{=@j0kL*ZO(@Kv[N|B,I]Tr&pS48:R_i7?.c1rKAR@ZNj5/!<@' );
-define( 'NONCE_SALT',       'z14%]1#p?~,aS 8c4WQ~72_X/{.oO0+J,KDlc6]aONRMXy*9M!0$e,FlLf<6_*Qw' );
+define( 'AUTH_KEY',         'rmyb#VD)*e(u9N!]NL+|@rAVGSwe jO,C3DSKlIT;iv8e`@)Z,I@5A!M6qC(]rxz' );
+define( 'SECURE_AUTH_KEY',  'd3hHyG^wl^MT/QUB8/2XaE/_~iU <EyAPc|,~;rf40NkcIuqIIB@d}IAAD7#]W_:' );
+define( 'LOGGED_IN_KEY',    'hCKAD+cwoAT?`(`gnCH!<eN`AmO}4Xmv]);hxUjyuM{dhtk0_4G}@q%nJmZ8Rp!0' );
+define( 'NONCE_KEY',        '*rg;j]L?!?{?fjZ%h2<mC[^iz)NZ&;Z`d~NpRn1E~`nEs<i#I&6EW_ s{}I:^]y8' );
+define( 'AUTH_SALT',        'wuI9qj7,ohs$}.t^[8:_U~SJJ]{yp@cZ.RWln:<*L,{@n}:#%=&Lseu<A^nu/|$8' );
+define( 'SECURE_AUTH_SALT', 'Pp}`W%[;5p)w?/WyFG0I^|*;zJ&Jum]M[4qcZLZF<LrBu#y=rMlskBTr[~`uX=S.' );
+define( 'LOGGED_IN_SALT',   'zCCawJ*1;/Je.5NTBBy@DHhV?ZGKBxM6g`,7B50}/nFx|KtPM,s;=tN}+pUY,s4E' );
+define( 'NONCE_SALT',       'S1Q]7Wr%tlB(&G$no{%mlZ=Q<5_&`Uog^cQFWG/qrXt CAs2nv!/eoaH&=i$v{Zg' );
 
 /**#@-*/
 
